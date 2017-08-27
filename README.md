@@ -1,4 +1,4 @@
-# npm 创建自己的模块并上送
+# NPM Publish发布自己的模块
 
 > NPM Publish发布自己的模块
 
