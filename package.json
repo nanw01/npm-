@@ -1,0 +1,22 @@
+{
+  "name": "npm_alex",
+  "version": "1.0.0",
+  "description": "上传公用库",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wanghaonanlpc/npm_alex.git"
+  },
+  "keywords": [
+    "waghaonanlpc123"
+  ],
+  "author": "alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wanghaonanlpc/npm_alex/issues"
+  },
+  "homepage": "https://github.com/wanghaonanlpc/npm_alex#readme"
+}

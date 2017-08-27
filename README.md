@@ -1,6 +1,6 @@
 # npm 创建自己的模块并上送
 
-> Vue.js 的学习项目
+> NPM Publish发布自己的模块
 
 ## Build Setup
 
