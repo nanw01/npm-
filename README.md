@@ -137,7 +137,7 @@ hello.sayHello();
 
 
 
-### 问题
+# 问题
 
 　1.使用 cnpm 的注意报错：
 
@@ -154,26 +154,3 @@ npm config set registry http://registry.npmjs.org
 　　2.npm包package.json中registory属性一定要填写，每次publish npm时package.json中version版本一定要大于上一次。
 
  　  3.npm publish failed put 500  unexpected status code 401这样的报错信息，往往是没有登录成功，操作npm login
-
- 
-
-## 7、分析包
-
-查看当前项目引用了哪些包 
-`npm ls`
-
-## 8、使用引入包
-
-`var hello = require('wu_xx'); hello.sayHello();`
-
-
-
-## 7、分析包
-
-查看当前项目引用了哪些包 
-`npm ls`
-
-## 8、使用引入包
-
-`var hello = require('wu_xx'); hello.sayHello();`
-
